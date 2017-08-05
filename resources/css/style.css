@@ -29,7 +29,7 @@ h1 {
 }
 
 .mainheader {
-    display: flex;
+    display: inline-flex;
     position: fixed;
     width: inherit;
     z-index: 100;
