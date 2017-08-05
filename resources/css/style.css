@@ -71,11 +71,12 @@ h1 {
   position: relative;
   top: 85px;
   z-index: 1;
-  margin-left: 20px;
+
 }
 
 .main {
   display: flex;
+  margin-left: 20px;
 }
 
 .column {
