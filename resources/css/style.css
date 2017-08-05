@@ -43,6 +43,11 @@ h1 {
   display: flex;
 }
 
+.headerContainer{
+  display: inline-flex;
+  align-items: center;
+}
+
 .navigation ul li {
   display: inline-block;
   align-items: center;
