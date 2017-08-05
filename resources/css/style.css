@@ -43,7 +43,7 @@ h1 {
   display: flex;
 }
 
-.headerContainer{
+.headerContainer {
   display: inline-flex;
   align-items: center;
 }
